@@ -10,9 +10,10 @@ This Project demonstrates a comprehensive data warehousing and analystics soluti
 
 ### Building the Data Warehouse
 
-#### Objective Develop a modren data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making. 
+#### **Objective** 
+Develop a modren data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making. 
 
-##### Specifications 
+##### **Specifications** 
 - **Data Sources**: Import data from two source systems as CSV file.
 - **Data Quality**: Cleanse and reslove data quality issues prior to analysis.
 - **Integrations**: Combine both source into a single, user friendely data model designed for analytical queries.
