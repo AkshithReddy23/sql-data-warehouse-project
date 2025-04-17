@@ -8,6 +8,9 @@ Script Purpose :
 Actions performed:
             Truncate Silver Tables.
             Insert transformed and cleaned data from 'Bronze' into 'Sliver' Schema.
+
+USAGE:
+	EXEC Silver.load_silver
 */
 CREATE OR ALTER PROCEDURE Silver.load_silver AS
 	
